@@ -19,3 +19,20 @@
 - Grid Search & Scores
 - Optimum model selection
 - Result & Insight
+
+# 2. Crowd Funding Recommender system
+
+## Idea
+- For new crowd funding projects, there are no such classificable factors with old projects (I suppose category is not a key factor)
+- Users are only interested in a project itself (Funding target money, duration, etc are non of their business)
+- Doc2vec is a quite logical method to classify documents
+- Classifying descriptions of projects by using Doc2vec -> Recommending 10 nearest projects with a project users clicked or supported
+
+## Outline
+- Tokenizing description
+- Run Doc2vec
+- Calculate distance of each project combinations
+- Recommend
+
+
+
