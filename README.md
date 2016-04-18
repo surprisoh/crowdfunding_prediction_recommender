@@ -8,7 +8,7 @@
 
 - number of errors / number of tokens
 - tested by naver grammar tester (https://github.com/ssut/py-hanspell)
-- suppposed grammar level represents capacity of creators
+- suppposed grammar level represents ability of creators
 
 ## Outline
 
