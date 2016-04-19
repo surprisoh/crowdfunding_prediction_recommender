@@ -34,5 +34,8 @@
 - Calculate distance of each project combinations
 - Recommend
 
+## Insight
+- 새로 개설되는 (user 정보, item 정보가 없는)프로젝트들의 연관성을 파악할 수 있을까에 대한 의문에서 출발한 실험적인 모델입니다.
+- 각 유저별 프로젝트 선택 목록, 웹 사이트내 행동 패턴 등과 결합하면 더욱 의미있는 모델이 될 것입니다.
 
 
